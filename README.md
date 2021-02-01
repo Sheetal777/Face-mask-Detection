@@ -1,6 +1,5 @@
 # Face-mask-Detection
 
-I followed tutorial to build the Project.
 - This is a Real-Time Face Mask Detector with Python, OpenCV, and Keras.
 - Basically, a Machine Learning project for detecting face mask using sufficient testing and training datasets.
 - The Datasets were downloaded from [here](https://data-flair.training/)
