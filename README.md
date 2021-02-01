@@ -16,4 +16,7 @@ I followed tutorial to build the Project.
 6. Initaialize a call-back as checkpoint
 7. Train the Model
 8. Now, test the results of face mask detector model using OpenCV.
-9. Run the project and observe the model performance: python3 test.py
+9. Run the project and observe the model performance: 
+        
+        
+        python3 test.py
